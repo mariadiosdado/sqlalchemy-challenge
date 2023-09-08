@@ -100,3 +100,6 @@ For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the 
 Join the station and measurement tables for some of the queries.
 
 Use the Flask jsonify function to convert your API data to a valid JSON response object
+
+# Credits
+For this assignment, I used the starter code. I also used class notes and activites examples. Google, and ask BCS helped with troubleshooting. Also, my tutor Richie guided me in completing app.py 
